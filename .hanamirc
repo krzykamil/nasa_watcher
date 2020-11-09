@@ -1,0 +1,3 @@
+project=nasa_watcher
+test=rspec
+template=erb
