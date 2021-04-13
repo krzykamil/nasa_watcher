@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rake'
 gem 'hanami',       '~> 1.3'
 gem 'hanami-model', '~> 1.3'
-
-gem 'sqlite3'
+gem 'bigdecimal', '1.4.2'
+gem 'pg'
 
 group :development do
   # Code reloading
